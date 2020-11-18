@@ -16,7 +16,7 @@
 The app uses the [News API](https://newsapi.org/) to load articles. To use the API, you will need to obtain a free developer API key.See News API docs for more information
 
 ### Libraries
-**Cardview**-This library is used for cardView design. Its looks like cards.
-**GSON**-This library is used to convert Java Objects into JSON representation. It can also be used to convert JSON string to Java Object.
-**Retrofit 2**-This library is convertor. A Convertor which uses Gson for serialization to and from JSON.
-**Design**-This library is used to support the design. Like Recyclerview, Floating Action button, Navigation View etc
+* **Cardview**-This library is used for cardView design. Its looks like cards.
+* **GSON**-This library is used to convert Java Objects into JSON representation. It can also be used to convert JSON string to Java Object.
+* **Retrofit 2**-This library is convertor. A Convertor which uses Gson for serialization to and from JSON.
+* **Design**-This library is used to support the design. Like Recyclerview, Floating Action button, Navigation View etc
